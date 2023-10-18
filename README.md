@@ -11,8 +11,8 @@ Project Structure
 
 Usage
 
-• Clone this repository to your local machine:
-• Initialise terraform configuration
+• Clone this repository to your local machine:                                                                               
+• Initialise terraform configuration                                                                                         
   terraform init 
 • Review planned changes 
   terraform plan 
